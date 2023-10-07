@@ -5,3 +5,4 @@ This is a test for git-add
 test
 two test
 Creating a new branch is quick
+Creating a new branch is quick & simple
